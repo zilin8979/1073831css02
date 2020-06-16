@@ -554,7 +554,7 @@ div.stand:after {
   height: inherit;
   border: 10px solid white;
   border-radius: 50%;
-  left: calc(50% - 155px);
+  left: calc(50% - 160px);
 }
 .track span {
   position: absolute;
